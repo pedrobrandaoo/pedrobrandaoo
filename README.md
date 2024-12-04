@@ -2,7 +2,7 @@
 
 My name is Pedro Brandão. I am currently studying Electrotechnical Engineering and Computer Science at ISEP.
 
-I am starting to learn Computer Science (especially C, JAVA, and LISP for AutoCAD for my current job).
+I am starting to learn Computer Science (especially C, JAVA, and LISP for AutoCAD).
 
 I'm eager to learn so I can develop my career in Computer Science and start contributing to open-source projects.
 
